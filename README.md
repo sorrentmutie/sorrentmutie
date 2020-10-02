@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
+<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
+
+
+
 Badge | Uri
 ------------ | -------------
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> | ``` https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white ```
