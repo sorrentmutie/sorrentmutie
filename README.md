@@ -6,7 +6,7 @@
   A web and .net developer from Naples, Italy.
 </3>
 
-<p align='center'>  >
+<p align='center'>  
   <a href="https://www.linkedin.com/in/salvatore-sorrentino-23b98998/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
