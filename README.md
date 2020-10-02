@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
-
 <p align="center">
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" />
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
