@@ -15,6 +15,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sorrentmutie&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
+
 
 <!---
 Here are some ideas to get you started:
@@ -64,5 +69,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sorrentmutie&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
