@@ -6,6 +6,16 @@
   A web and .net developer from Naples, Italy.
 </3>
 
+<p align='center'>  >
+  <a href="https://www.linkedin.com/in/salvatore-sorrentino-23b98998/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/csharpnapoli">
+    <img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+
 <!---
 Here are some ideas to get you started:
 
