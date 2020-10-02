@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/r%20-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>  
-
+<img src="https://img.shields.io/badge/scala%20-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>   
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>     
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
