@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 🚀 Skills [🔝](#welcome-badges-4-readmemd-profile)
 
 <p align="center>
+<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" />
 <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/> 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/> 
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 
 <p align='center'>
 <img src="https://img.shields.io/badge/xamarin%20forms-%233498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" />
-<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?&style=for-the-badge&logo=dot-net&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
