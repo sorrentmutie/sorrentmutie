@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Salvatore's github stats](https://github-readme-stats.vercel.app/api?username=sorrentmutie)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sorrentmutie&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
