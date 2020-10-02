@@ -2,6 +2,10 @@
   Ciao! 👋 I'm Salvatore 👨‍💻
 </h1>
 
+
+<p align='center'>
+  A web and .net developer from Naples, Italy.
+</p>
 <!--
 **sorrentmutie/sorrentmutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
