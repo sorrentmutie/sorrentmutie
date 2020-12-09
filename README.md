@@ -4,7 +4,7 @@
 
 <h3 align='center'>
   A web and .net developer from Naples, Italy.
-</3>
+</h3>
 
 <p align='center'>  
   <a href="https://www.linkedin.com/in/salvatore-sorrentino-23b98998/">
