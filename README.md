@@ -79,8 +79,4 @@ Here are some ideas to get you started:
 
 ## 🏅 Certifications
 
-<img src="[https://github.com/sorrentmutie/sorrentmutie/blob/main/github-foundation-badge.png?raw=true](https://github.com/sorrentmutie/sorrentmutie/blob/main/assets/image.png?raw=true)" width="150" alt="GitHub Foundation – ESMA"/>
-
-
-
-
+<img src="https://github.com/sorrentmutie/sorrentmutie/blob/main/assets/image.png?raw=true" width="150" alt="GitHub Foundation – ESMA"/>
