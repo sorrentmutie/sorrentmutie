@@ -72,5 +72,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge"/>  
 </p>
 
+## 🏅 Certifications
+
+[![GitHub Foundation – ESMA](https://images.credly.com/size/340x340/images/9e13f6b3-10cc-4b3b-a788-8e6e7a0883c9/image.png)](https://www.credly.com/badges/782d0afd-3fd9-48a6-af5c-6509f2db8987/public_url)
 
 
