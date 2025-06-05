@@ -75,5 +75,5 @@ Here are some ideas to get you started:
 
 ## 🏅 Certifications
 
-[![GitHub Foundation – ESMA](https://github.com/sorrentmutie/sorrentmutie/blob/main/image.png?raw=true)](https://www.credly.com/badges/782d0afd-3fd9-48a6-af5c-6509f2db8987/public_url)
+[![GitHub Foundation – ESMA](https://github.com/sorrentmutie/sorrentmutie/image.png?raw=true)](https://www.credly.com/badges/782d0afd-3fd9-48a6-af5c-6509f2db8987/public_url)
 
